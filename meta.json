@@ -1,0 +1,14 @@
+{
+    "classes": [
+        {
+            "title": "pothole",
+            "shape": "rectangle",
+            "color": "#8A0F30",
+            "geometry_config": {},
+            "id": 6478869,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}
